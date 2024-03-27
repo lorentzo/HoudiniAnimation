@@ -33,12 +33,6 @@ https://www.artstation.com/lovro
 
 WIP
 
-![](SpreadGrowth/Gallery/2_1.png)
-![](SpreadGrowth/Gallery/2_2.png)
-![](SpreadGrowth/Gallery/2_3.png)
-![](SpreadGrowth/Gallery/2_4.png)
-
-![](SpreadGrowth/Gallery/1.png)
-
-![](SpreadGrowth/Gallery/2.png)
-
+![](SpreadGrowth/Gallery/3_1.png)
+![](SpreadGrowth/Gallery/3_2.png)
+![](SpreadGrowth/Gallery/3_3.png)
