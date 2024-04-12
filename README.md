@@ -36,6 +36,7 @@ WIP
 ![](SpreadGrowth/Gallery/3_1.png)
 ![](SpreadGrowth/Gallery/3_2.png)
 ![](SpreadGrowth/Gallery/3_3.png)
+![](SpreadGrowth/Gallery/3_4.png)
 ![](SpreadGrowth/Gallery/4_1.png)
 ![](SpreadGrowth/Gallery/4_2.png)
 ![](SpreadGrowth/Gallery/4_3.jpg)
