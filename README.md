@@ -31,12 +31,17 @@ https://www.artstation.com/lovro
 
 ## `SpreadGrowth/`
 
-WIP
+Tech:
+* Pyro spread
+* VEX scaling, rotating
+* GLTF instancing
+
+![](SpreadGrowth/Gallery/cat1.jpg)
+![](SpreadGrowth/Gallery/cat2.jpg)
+
+![](SpreadGrowth/Gallery/trunk1.jpg)
+![](SpreadGrowth/Gallery/trunk2.jpg)
 
 ![](SpreadGrowth/Gallery/3_1.png)
 ![](SpreadGrowth/Gallery/3_2.png)
 ![](SpreadGrowth/Gallery/3_3.png)
-![](SpreadGrowth/Gallery/3_4.png)
-![](SpreadGrowth/Gallery/4_1.png)
-![](SpreadGrowth/Gallery/4_2.png)
-![](SpreadGrowth/Gallery/4_3.jpg)
