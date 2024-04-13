@@ -39,8 +39,12 @@ Tech:
 ![](SpreadGrowth/Gallery/cat1.jpg)
 ![](SpreadGrowth/Gallery/cat2.jpg)
 
+Animation: https://www.artstation.com/artwork/Al89K5
+
 ![](SpreadGrowth/Gallery/trunk1.jpg)
 ![](SpreadGrowth/Gallery/trunk2.jpg)
+
+Animation: https://www.artstation.com/artwork/XgZB2w
 
 ![](SpreadGrowth/Gallery/3_1.png)
 ![](SpreadGrowth/Gallery/3_2.png)
