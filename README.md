@@ -49,3 +49,18 @@ Animation: https://www.artstation.com/artwork/XgZB2w
 ![](SpreadGrowth/Gallery/3_1.png)
 ![](SpreadGrowth/Gallery/3_2.png)
 ![](SpreadGrowth/Gallery/3_3.png)
+
+
+## `ColorfulSmoke/`
+
+Houdini 19.5.716 py
+
+Tech:
+* Pyro volume simulation
+* SOP emitter and geo collider with colors.
+
+Animation: https://www.artstation.com/artwork/1xKLLL
+
+![](ColorfulSmoke/Gallery/1.jpg)
+![](ColorfulSmoke/Gallery/2.jpg)
+![](ColorfulSmoke/Gallery/3.jpg)
