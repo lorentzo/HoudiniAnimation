@@ -64,3 +64,16 @@ Animation: https://www.artstation.com/artwork/1xKLLL
 ![](ColorfulSmoke/Gallery/1.jpg)
 ![](ColorfulSmoke/Gallery/2.jpg)
 ![](ColorfulSmoke/Gallery/3.jpg)
+
+## `GuidedGrowth/`
+
+Inspired by: https://www.youtube.com/watch?v=xdC7k_LslgA&t=405s
+
+Houdini 20.0 py
+
+Tech:
+* RBD
+* Geo distance
+* Attrib transfer
+
+![](GuidedGrowth/Gallery/1.png)
