@@ -67,15 +67,13 @@ Animation: https://www.artstation.com/artwork/1xKLLL
 
 ## `GuidedGrowth/`
 
-Inspired by: https://www.youtube.com/watch?v=xdC7k_LslgA&t=405s
-
 Houdini 20.0 py
 
 Tech:
 * RBD
-* Geo distance
-* Attrib transfer
+* Geo distance + Attrib transfer
+* POPs and trails
 
-![](GuidedGrowth/Gallery/1.png)
+Animation: https://www.artstation.com/artwork/x3AP4E
 
-![](GuidedGrowth/Gallery/2.png)
+![](GuidedGrowth/Gallery/4.jpg)
