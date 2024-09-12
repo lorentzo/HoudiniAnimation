@@ -1,6 +1,8 @@
 # Houdini Animation
 
-Various animation I did in Houdini. Each folder contains Houdini source project and gallery.
+Various animations I did in Houdini. 
+
+Each folder contains Houdini source project and gallery.
 
 ## `Morph/`
 
@@ -80,7 +82,7 @@ Animation: https://www.artstation.com/artwork/x3AP4E
 
 ## `CloudAbstraction/`
 
-Houdini 20.05 pz
+Houdini 20.05 py
 
 Tech:
 * VDB cloud SOP
