@@ -77,3 +77,25 @@ Tech:
 Animation: https://www.artstation.com/artwork/x3AP4E
 
 ![](GuidedGrowth/Gallery/4.jpg)
+
+## `CloudAbstraction/`
+
+Houdini 20.05 pz
+
+Tech:
+* VDB cloud SOP
+* Surface tangentfields
+* Color adjust
+* POPs with volume vector field advect
+* Trails
+* Solaris: staging, lighting and Karma XPU rendering
+
+Artstation: https://www.artstation.com/artwork/5WBx9O
+
+![](CloudAbstraction/gallery/VolumeLines.karmarendersettings1.0001.jpg)
+
+![](CloudAbstraction/gallery/VolumeLines.karmarendersettings1.0127.jpg)
+
+![](CloudAbstraction/gallery/c1.jpg)
+
+![](CloudAbstraction/gallery/c6.jpg)
